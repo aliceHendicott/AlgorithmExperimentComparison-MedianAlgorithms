@@ -1,0 +1,19 @@
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.exe.config
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.exe
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.pdb
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.exe
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.pdb
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.csprojResolveAssemblyReference.cache
+C:/Users/Jez/Desktop/CAB301/Assignment2/BF Median/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.csprojResolveAssemblyReference.cache
+C:/Users/Jez/Desktop/CAB301/Assignment2/BF Median/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.exe
+C:/Users/Jez/Desktop/CAB301/Assignment2/BF Median/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.pdb
+C:/Users/Jez/Desktop/CAB301/Assignment2/BF Median/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.exe.config
+C:/Users/Jez/Desktop/CAB301/Assignment2/BF Median/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.exe
+C:/Users/Jez/Desktop/CAB301/Assignment2/BF Median/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.pdb
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.exe.config
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.exe
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/bin/Debug/BruteForceMedian.pdb
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.csprojResolveAssemblyReference.cache
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.csproj.CoreCompileInputs.cache
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.exe
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/CAB301 -Programming/BruteForceMedian/BruteForceMedian/obj/Debug/BruteForceMedian.pdb

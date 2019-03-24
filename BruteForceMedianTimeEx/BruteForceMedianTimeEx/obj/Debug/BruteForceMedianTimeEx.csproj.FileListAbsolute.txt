@@ -1,0 +1,13 @@
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedianTimeEx/BruteForceMedianTimeEx/bin/Debug/BruteForceMedianTimeEx.exe.config
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedianTimeEx/BruteForceMedianTimeEx/bin/Debug/BruteForceMedianTimeEx.exe
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedianTimeEx/BruteForceMedianTimeEx/bin/Debug/BruteForceMedianTimeEx.pdb
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.csprojResolveAssemblyReference.cache
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.exe
+C:/Users/Jez/Desktop/CAB301/Assignment2/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.pdb
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/bin/Debug/BruteForceMedianTimeEx.exe.config
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/bin/Debug/BruteForceMedianTimeEx.exe
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/bin/Debug/BruteForceMedianTimeEx.pdb
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.csprojResolveAssemblyReference.cache
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.csproj.CoreCompileInputs.cache
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.exe
+/Users/alicehendicott/Documents/Uni/2018/Sem1/CAB301/Assignment 2/Assignment2-FinalSubmissionFiles/CAB301 -Programming/BruteForceMedianTimeEx/BruteForceMedianTimeEx/obj/Debug/BruteForceMedianTimeEx.pdb
